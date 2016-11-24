@@ -31,7 +31,7 @@ How to Install and Create BlockChain with Multichain
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This command will start the BlockChain node and will lock the content of params.dat file. A node address such as ```chain-name@ip-address:port``` will be the output. this node address allow other nodes to easily connect.<br><br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Now the BlockChain has been created and started. To connect to the blockchain, first obtain the node address from any node which is already connected. and run the following command <br>
          <b>``` - multichaind nodeAddess -deamon ```</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This command will connect you to the BlockChain. nodeAddress will be something like this ``` chain-naim@pAddress:port``` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This command will connect you to the BlockChain. nodeAddress will be something like this ``` chain-name@pAddress:port``` <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  example ``` chain1@12.34.56.12:5050```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - If the BlockChain is Private then the output of the command will contain <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```your address``` in form of some random Aplhanumeric values. Admin of the BlockChain need to grant permissions on <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```your address``` . you can find [here](http://www.multichain.com/developers/json-rpc-api/) more about permission grant under Permission Managment Section.<br>
