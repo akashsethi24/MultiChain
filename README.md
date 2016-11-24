@@ -40,5 +40,5 @@ How to Install and Create BlockChain with Multichain
 #<h2> Using Command-line Interface</h2><br><br>
   <b>``` - multichain-cli [chain-name] ```</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This command wil open the cli for BlockChain you are connected to. This CLI will only work if you are connected the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BlockChain.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Now you can try various commands like ``` getinfo``` for general informations about nodes, balance etc. ```getaddresses``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for you address. you can send currency to someone else by ``` send [other_person_address] amount``` command. <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Now you can try various commands like ``` getinfo``` for general informations about nodes, balance etc. ```getaddresses``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for yoru address. you can send currency to someone else by ``` send [other_person_address] amount``` command. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - You can find all command [here](http://www.multichain.com/developers/json-rpc-api/)
